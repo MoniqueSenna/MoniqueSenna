@@ -11,6 +11,7 @@
     <a href="https://github.com/MoniqueSenna">
     <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=MoniqueSenna&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueSenna&hide_progress=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"/>
     </a>
 </div>
 
@@ -22,6 +23,6 @@
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
         </div>
         
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+ 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
