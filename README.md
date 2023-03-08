@@ -6,7 +6,6 @@
 - 😄 Pronouns: ela/ dela
 - ⚡ Fun fact: contabilista apaixonada pela tecnologia
 <div>
-<a href=”https://beacons.ai/MoniqueSenna”>
 <img height=”180em” src=”https://github-readme-stats.vercel.app/api?username=MoniqueSenna&show_icons=true&theme=tokyonight”/>
 <img height=”180em” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueSenna&hide_progress=true ”/>
 </div>
