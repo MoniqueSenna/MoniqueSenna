@@ -5,17 +5,10 @@
 - 📫 How to reach me: msenna.castro@gmail.com
 - 😄 Pronouns: ela/ dela
 - ⚡ Fun fact: contabilista apaixonada pela tecnologia
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
-##  Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
-<div align="center">
-  <a href="https://github.com/rafaballerini">
+<div>
+<a href=”https://beacons.ai/MoniqueSenna”>
+<img height=”180em” src=”https://github-readme-stats.vercel.app/api?username=MoniqueSenna&show_icons=true&theme=tokyonight”/>
+<img height=”180em” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueSenna&hide_progress=true ”/>
 </div>
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [ tutorial ](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain .svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain .svg">
 
