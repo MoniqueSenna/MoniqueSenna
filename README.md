@@ -19,3 +19,8 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=MoniqueSenna&show_icons=true" />
     </picture>
+
+https://github-readme-stats.vercel.app/api?username=MoniqueSenna&show_icons=true
+
+srcset="https://github-readme-stats.vercel.app/api?username=MoniqueSenna&show_icons=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
