@@ -10,16 +10,16 @@
  <div display: inline-block>
     <a href="https://github.com/MoniqueSenna">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoniqueSenna&show_icons=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueSenna&hide_progress=true"/>
+    <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueSenna&hide_progress=true"/>
     </a>
 </div>
 
 <div width: 50px margin: 100px display: inline-block>
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="mailto:msenna.castro@gmail.com"/>
-            <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href="https://wa.me/5521986177865"/>
-            <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href=""/>
-            <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" href=""/>
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/moniquesenna/"/>
+            <a href="mailto:msenna.castro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+            <a href="https://wa.me/5521986177865"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+            <a href=""><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+            <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+            <a href="https://www.linkedin.com/in/moniquesenna/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </div>
         
  
