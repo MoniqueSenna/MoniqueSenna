@@ -7,9 +7,9 @@
 - ⚡ Fun fact: contabilista apaixonada pela tecnologia
 
 
- <div>
+ <div display: inline-block>
     <a href="https://github.com/MoniqueSenna">
-    <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=MoniqueSenna&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueSenna&hide_progress=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"/>
     </a>
@@ -25,4 +25,4 @@
         
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
