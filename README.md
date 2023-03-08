@@ -31,3 +31,10 @@ srcset="https://github-readme-stats.vercel.app/api?username=MoniqueSenna&show_ic
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
+
+<a href="https://github.com/MoniqueSenna/github-readme-stats">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoniqueSenna&show_icons=true&theme=tokyonight"/>
+          </a>
+          <a href="https://github.com/MoniqueSenna/convoychat">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MoniqueSenna&repo=convoychat" />
+          </a>
