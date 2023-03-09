@@ -14,8 +14,17 @@
     </a>
 </div>
 
-   
-   <div style="display: inline_block"><br> 
+<div style="display: inline_block"><br>
+    <img align="center" alt="nique-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" alt="nique-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+     <img align="center" alt="nique-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+     
+           
+          
+</div>
+
+ 
+   <div style="display: inline_block">
      <a href="mailto:msenna.castro@gmail.com"><img alt="nique-email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
      <a href="https://wa.me/5521986177865"><img alt="nique-what" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
      <a href=""><img alt="nique-tele" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
