@@ -34,8 +34,7 @@
      <a href=""><img alt="nique-tele" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
      <a href="https://discord.com/channels/@MoniqueSenna#7615"><img alt="nique-disc" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
      <a href="https://www.linkedin.com/in/moniquesenna/"><img alt="nique-link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      
-     </div>
+   </div>
         
  
 
