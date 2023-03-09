@@ -5,7 +5,7 @@
 - 😄 Pronouns: ela/ dela
 
 <div>
-    <img height="50" width="50" align="right" alt="nique-gif" src="https://cdn.discordapp.com/attachments/1083188248089731112/1083203282295607306/download20230303175950.gif"/>
+    <img height="100" width="100" align="right" alt="nique-gif" src="https://cdn.discordapp.com/attachments/1083188248089731112/1083203282295607306/download20230303175950.gif"/>
 </div>
 
  <div>
