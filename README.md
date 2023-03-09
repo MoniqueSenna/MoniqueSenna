@@ -10,8 +10,8 @@
  <div display: inline-block>
     <a href="https://github.com/MoniqueSenna">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoniqueSenna&show_icons=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueSenna&hide_progress=true"/>
-     <img height="180em" src="C:\Users\MONIQUE\github\Portifólio github\imagens"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueSenna&hide_progress=true"/>
+    <img height="180em" src="file:///C:/Users/MONIQUE/github/Portif%C3%B3lio%20github/imagens/download20230303175950.png"/>
     </a>
 </div>
 
@@ -25,4 +25,4 @@
         
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
