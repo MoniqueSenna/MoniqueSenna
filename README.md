@@ -7,7 +7,7 @@
 - ⚡ Fun fact: contabilista apaixonada pela tecnologia
 
 
- <div display: inline-block>
+ <div display: "inline-block">
     <a href="https://github.com/MoniqueSenna">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MoniqueSenna&show_icons=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueSenna&hide_progress=true"/>
@@ -15,7 +15,7 @@
     </a>
 </div>
 
-<div width: 50px margin: 100px display: inline-block text-align: center>
+<div width: "50px" margin: "100px" display: "inline-block" align: "middle">
             <a href="mailto:msenna.castro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
             <a href="https://wa.me/5521986177865"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
             <a href=""><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
