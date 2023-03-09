@@ -4,14 +4,15 @@
 - 🌱 I’m currently learning Pyton e Angular
 - 😄 Pronouns: ela/ dela
 
-
+<div>
+    <img align="right" alt="nique-gif" src="https://discord.com/channels/@me/1083188248089731112/1083200922357870702"/>
+</div>
 
  <div>
     <a href="https://github.com/MoniqueSenna">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MoniqueSenna&show_icons=true&theme=tokyonight"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueSenna&layout=compact&theme=tokyonight"/>
     <img height="180em" src="file:///C:/Users/MONIQUE/github/Portif%C3%B3lio%20github/imagens/download20230303175950.png"/>
-     <img align="right" alt="nique-gif" src="https://discord.com/channels/@me/1083188248089731112/1083200922357870702"/>
     </a>
 </div>
 
