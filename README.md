@@ -4,7 +4,7 @@
 - 🔭 I’m currently working com Desenvolvimento Front-End
 - 🌱 I’m currently learning Pyton e Angular
 - 😄 Pronouns: ela/ dela
-
+<br>
  <div>
     <a href="https://github.com/MoniqueSenna">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MoniqueSenna&show_icons=true&theme=tokyonight"/>
@@ -23,7 +23,6 @@
      <img align="center" alt="nique-JQ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
      <img align="center" alt="nique-JQ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
      <img align="center" alt="nique-JQ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          
 </div>
 
 <div>
@@ -32,15 +31,14 @@
 
 ##
 
-   <div style="display: inline_block">
+ <div style="display: inline_block">
      <a href="mailto:msenna.castro@gmail.com"><img alt="nique-email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
      <a href="https://wa.me/5521986177865"><img alt="nique-what" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
      <a href=""><img alt="nique-tele" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
      <a href="https://discord.com/channels/@MoniqueSenna#7615"><img alt="nique-disc" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
      <a href="https://www.instagram.com/niquesenna/"><img alt="nique-insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
      <a href="https://www.linkedin.com/in/moniquesenna/"><img alt="nique-link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-   
-   </div>
+</div>
         
  
 
