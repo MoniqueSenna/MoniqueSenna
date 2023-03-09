@@ -10,7 +10,8 @@
  <div display: inline-block>
     <a href="https://github.com/MoniqueSenna">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoniqueSenna&show_icons=true"/>
-    <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueSenna&hide_progress=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueSenna&hide_progress=true"/>
+     <img height="180em" src="C:\Users\MONIQUE\github\Portifólio github\imagens"/>
     </a>
 </div>
 
