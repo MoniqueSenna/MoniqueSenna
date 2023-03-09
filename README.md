@@ -7,7 +7,7 @@
 - ⚡ Fun fact: contabilista apaixonada pela tecnologia
 
 
- <div display: "inline-block">
+ <div>
     <a href="https://github.com/MoniqueSenna">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MoniqueSenna&show_icons=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueSenna&hide_progress=true"/>
