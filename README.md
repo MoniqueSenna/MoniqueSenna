@@ -1,13 +1,9 @@
-<div>
+
 ## Olá! Sou a Monique Senna
 
 - 🔭 I’m currently working com Desenvolvimento Front-End
 - 🌱 I’m currently learning Pyton e Angular
 - 😄 Pronouns: ela/ dela
-
-
-    <img height="110" width="110" align="right" alt="nique-gif" src="https://cdn.discordapp.com/attachments/1083188248089731112/1083203282295607306/download20230303175950.gif"/>
-</div><br>
 
  <div>
     <a href="https://github.com/MoniqueSenna">
@@ -28,6 +24,10 @@
      <img align="center" alt="nique-JQ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
      <img align="center" alt="nique-JQ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
           
+</div>
+
+<div>
+    <img height="110" width="110" align="right" alt="nique-gif" src="https://cdn.discordapp.com/attachments/1083188248089731112/1083203282295607306/download20230303175950.gif"/>
 </div>
 
 ##
